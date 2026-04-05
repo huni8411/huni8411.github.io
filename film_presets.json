@@ -1,5 +1,6 @@
 {
   "version": 1,
+  "categories": ["기본", "클래식", "후지필름", "니콘", "소니", "캐논"],
   "presets": [
     {
       "id": "fuji_ger1",
